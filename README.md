@@ -171,4 +171,8 @@ Our challenge as developers is to keep track of the different layers of magic th
 
 When in doubt, **read the HTML**. Get used to hitting the "View Source" and "Open Inspector" hotkeys in your browser (`Ctrl-u` and `Ctrl-Shift-i` on Chrome Windows; `Option-Command-u` and `Option-Command-i` on Chrome Mac), and remember that most browsers let you [examine `POST` data in their developer network tools](http://superuser.com/questions/395919/where-is-the-post-tab-in-chrome-developer-tools-network).
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-validations-with-form_for-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-validations-with-form_for-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Validations with `form_for`</p>
